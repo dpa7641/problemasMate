@@ -7,7 +7,6 @@
     <title>problemasMate</title>
 </head>
 <body>
-    <h1>Problemas de Matematicas</h1>
-    
+    <h1>Problemas Matematicas</h1>
 </body>
 </html>
